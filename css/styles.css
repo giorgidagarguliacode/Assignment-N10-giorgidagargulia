@@ -1,0 +1,242 @@
+
+
+body{ 
+    padding-top: 20px;
+}
+header{
+    display: flex;
+    flex-flow : row nowrap;
+   justify-content: space-around;
+   padding: 33px 78px;
+}
+ img{
+    width: 40px;
+    
+ }
+nav {
+   display: flex;
+  flex-flow: row nowrap;
+}
+nav a{
+    margin-right: 50px;
+    color: #636060;
+    font-weight: 400;
+    font-family: Helvetica;
+    font-size: 17px;
+}
+.sec1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 31px;
+    width: 100%;
+     height: 700px;
+    background-image: url(../images/whitebuildings.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.sec1-p{
+   font-family: Helvetica;
+   font-weight: 700;
+   font-size: 79px;
+   color: #FFFFFF;
+}
+.sec1-p2{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 19px;
+   color: #FFFFFF;
+}
+.sec2{
+     margin-top: 84px;
+    display: flex;
+   justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 83px;
+    padding-left: 100px;
+
+}
+.left-div{
+   display: flex;
+    flex-direction: column;
+     height: 135px;
+    width: 235px;
+    margin-right: 83px;
+}
+.left-div h6{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 17px;
+    color:#636060;
+}
+.left-div h3{
+    margin-bottom: 37px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 28px;
+    color: #010101;
+}
+.left-div p{
+  font-family: Helvetica;
+  font-weight: 400;
+  font-size: 20px;
+  color: #636060;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+   gap: 56px;
+}
+.containerbox{
+    display: flex;
+    flex-direction: column;
+    
+}
+.top-side1{
+    width: 286px;
+    height: 195px;
+    background-image: url(../images/ruin.svg);
+    margin-bottom: 23px;
+}
+.bottom-side1{
+    width: 286px;
+    height: 127px;
+}
+.bottom-side1 h3{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 19px;
+    color:#343232;
+}
+.bottom-side1 p{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 18px;
+    color:#636060;
+}
+.top-side2{
+    width: 286px;
+    height: 195px;
+    background-image:url(../images/walkway.svg);
+    margin-bottom: 23px;
+}
+.bottom-side2{
+    width: 286px;
+    height: 127px;
+    margin-bottom: 23px;
+}
+.bottom-side2 h3{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 19px;
+    color:#343232;
+}
+.bottom-side2 p{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 18px;
+    color:#636060;
+}
+.top-side3{
+    width: 286px;
+    height: 195px;
+    background-image:url(../images/seaside.svg);
+    margin-bottom: 23px;
+}
+.bottom-side3{
+    width: 286px;
+    height: 127px;
+    
+}
+.bottom-side3 h3{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 19px;
+    color:#343232;
+}
+.bottom-side3 p{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 18px;
+    color:#636060;
+}
+.top-side4{
+    width: 286px;
+    height: 195px;
+    background-image:url(../images/scenary.svg);
+     margin-bottom: 23px;
+}
+.bottom-side4{
+    width: 286px;
+    height: 127px;
+    
+}
+.bottom-side4 h3{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 19px;
+    color:#343232;
+}
+.bottom-side4 p{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 18px;
+    color:#636060;
+}
+
+.top-side5{
+    width: 286px;
+    height: 195px;
+    background-image:url(../images/magestic.svg);
+     margin-bottom: 23px;
+}
+.bottom-side5{
+    width: 286px;
+    height: 127px;
+    
+}
+.bottom-side5 h3{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 19px;
+    color:#343232;
+}
+.bottom-side5 p{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 18px;
+    color:#636060;
+}
+.top-side6{
+    width: 286px;
+    height: 195px;
+    background-image:url(../images/roof.svg);
+     margin-bottom: 23px;
+}
+.bottom-side6{
+    width: 286px;
+    height: 127px;
+    
+}
+.bottom-side6 h3{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 19px;
+    color:#343232;
+}
+.bottom-side6 p{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 18px;
+    color:#636060;
+}
