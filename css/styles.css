@@ -24,6 +24,9 @@ nav a{
     font-family: Helvetica;
     font-size: 17px;
 }
+i{
+    margin-right: 10px;
+}
 .sec1{
     display: flex;
     flex-direction: column;
@@ -52,11 +55,9 @@ nav a{
 .sec2{
      margin-top: 84px;
     display: flex;
-   justify-content: space-between;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 83px;
-    padding-left: 100px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 40px;
 
 }
 .left-div{
@@ -88,8 +89,9 @@ nav a{
 }
 .container{
     display: flex;
-    flex-wrap: wrap;
-   gap: 56px;
+  flex-wrap: wrap;
+  gap: 30px;
+  width: 950px;
 }
 .containerbox{
     display: flex;
