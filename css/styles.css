@@ -18,13 +18,18 @@ nav {
   flex-flow: row nowrap;
 }
 nav a{
+    
     margin-right: 50px;
     color: #636060;
     font-weight: 400;
     font-family: Helvetica;
     font-size: 17px;
 }
+
+
+
 i{
+  
     margin-right: 10px;
 }
 .sec1{
@@ -86,6 +91,7 @@ i{
   font-weight: 400;
   font-size: 20px;
   color: #636060;
+  line-height: 30px;
 }
 .container{
     display: flex;
